@@ -12,7 +12,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  A simple to-do list website with motivational quotes. The code has Declarations, Conditional, and Looping. 
+  A simple to-do list website with randomly generated motivational quotes. 
 </div>
 
 <br />
