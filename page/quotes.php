@@ -85,6 +85,6 @@ $allQuotes = [
     }
     ?>
 
-    <a href="index.php">⬅ Go back to main screen</a>
+    <a href="index.php">Go back to main screen</a>
 </body>
 </html>
