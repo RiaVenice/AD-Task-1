@@ -68,6 +68,7 @@ This is a sample project that demonstrates the basics of programming designed an
 <!-- The following are just sample -->
  
 - Declarations, Conditional, and Looping
+- No Functions, Class, and Input
 
 ### Technology
 
@@ -129,7 +130,5 @@ AD-ProjectName
 
 | Title        | Purpose                                                                       | Link          |
 | ------------ | ----------------------------------------------------------------------------- | ------------- |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Create a To-Do List App Using HTML CSS And JavaScript in 10min | Inspired me to create a simple To-Do List | https://www.youtube.com/watch?v=OJFwqYrpNU8 |
+
