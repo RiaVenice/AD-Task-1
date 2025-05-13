@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Mood Uplift</title>
+    <title>To-Do List</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
