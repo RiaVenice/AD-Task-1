@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>To-Do List</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
     <h1>To-Do List for the week</h1>
