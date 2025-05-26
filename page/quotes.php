@@ -70,7 +70,7 @@ $allQuotes = [
 <html>
 <head>
     <title>Things To Do:</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
     <h1>Things To Do:</h1>
@@ -85,6 +85,6 @@ $allQuotes = [
     }
     ?>
 
-    <a href="index.php">Go back to main screen</a>
+    <a href="../index.php">Go back to main screen</a>
 </body>
 </html>
