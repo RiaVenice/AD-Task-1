@@ -66,11 +66,12 @@ $allQuotes = [
 ];
 ?>
 
+
 <!DOCTYPE html>
 <html>
 <head>
     <title>Things To Do:</title>
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="../assets/css/style.css">
 </head>
 <body>
     <h1>Things To Do:</h1>
@@ -78,7 +79,7 @@ $allQuotes = [
 
     <h2>Motivation:</h2>
     <?php
-    // Looping
+    // Looping to display a random quote
     for ($i = 0; $i < 1; $i++) {
     $randIndex = rand(0, count($allQuotes) - 1);
     echo "<p>" . $allQuotes[$randIndex] . "</p>";
